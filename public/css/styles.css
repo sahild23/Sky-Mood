@@ -1,0 +1,15 @@
+html, body {
+  height: 100%;
+}
+
+.bimg{
+  background-image: url('1.jpg');
+  background-color: "black";
+}
+
+
+
+.middle
+{
+  margin-bottom: 10px;
+}
